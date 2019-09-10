@@ -1,2 +1,2 @@
 cd "/home/`whoami`/TPM/apps/debug";
-screen -dm bash real_start.sh;
+bash real_start.sh;
